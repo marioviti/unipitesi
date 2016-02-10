@@ -5,12 +5,19 @@
 \frontmatter
 
 \titolo{titolo}
+
 \laureando{laureando}
+
 \corsodilaureamagistrale{tesi}
+
 \relatore[Prof.]{prof1}
+
 \secondorelatore[Prof.]{prof2}
+
 \controrelatore[Prof.]{prof3}
+
 \annoaccademico{aa-aa+1}
+
 \data{data}
 
 \maketitle
