@@ -6,26 +6,17 @@ in the header include
 
 
 \usepackage{unipitesi}
-
-
 \graphicspath{{img/}}
 
 to create the frontespizio format your title as showed
 
 \frontmatter
-
 \titolo{titolo}
-
 \laureando{laureando}
-
 \corsodilaureamagistrale{tesi}
-
 \relatore[Prof.]{prof1}
-
 \secondorelatore[Prof.]{prof2}
-
 \controrelatore[Prof.]{prof3}
-
 \annoaccademico{aa-aa+1}
 
 \data{data}
