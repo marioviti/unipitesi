@@ -5,20 +5,17 @@
 in the header include 
 
 
-\usepackage{unipitesi}
+\usepackage{unipitesi} <br />
 \graphicspath{{img/}}
 
 to create the frontespizio format your title as showed
 
-\frontmatter
-\titolo{titolo}
-\laureando{laureando}
-\corsodilaureamagistrale{tesi}
-\relatore[Prof.]{prof1}
-\secondorelatore[Prof.]{prof2}
-\controrelatore[Prof.]{prof3}
-\annoaccademico{aa-aa+1}
 
+\titolo{titolo} <br />
+\laureando{laureando} <br />
+\corsodilaureamagistrale{tesi} <br />
+\relatore[Prof.]{prof1} <br />
+\secondorelatore[Prof.]{prof2} <br /> 
+\controrelatore[Prof.]{prof3} <br />
+\annoaccademico{aa-aa+1} <br />
 \data{data}
-
-\maketitle
