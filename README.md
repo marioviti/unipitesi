@@ -13,7 +13,7 @@ to create the frontespizio format your title as showed
 
 \titolo{titolo} <br />
 \laureando{laureando} <br />
-\corsodilaureamagistrale{tesi} <br />
+\corsodilaureamagistrale{materia} <br />
 \relatore[Prof.]{prof1} <br />
 \secondorelatore[Prof.]{prof2} <br /> 
 \controrelatore[Prof.]{prof3} <br />
